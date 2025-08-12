@@ -7,7 +7,7 @@ export const productsMock = [
     price: 7900,
     stock: 5,
     imageUrl: "https://tu-imagen.com/hamburguesa1.jpg",
-    category: "Hamburguesa",
+    category: "sanguche",
   },
   {
     id: "2",
@@ -17,7 +17,7 @@ export const productsMock = [
     price: 8200,
     stock: 3,
     imageUrl: "https://tu-imagen.com/hamburguesa2.jpg",
-    category: "Hamburguesa",
+    category: "sanguche",
   },
     {
     id: "3",
@@ -27,7 +27,7 @@ export const productsMock = [
     price: 8200,
     stock: 3,
     imageUrl: "https://tu-imagen.com/hamburguesa2.jpg",
-    category: "Hamburguesa",
+    category: "sanguche",
   },
     {
     id: "4",
@@ -37,7 +37,7 @@ export const productsMock = [
     price: 8200,
     stock: 3,
     imageUrl: "https://tu-imagen.com/hamburguesa2.jpg",
-    category: "Hamburguesa",
+    category: "sanguche",
   },
     {
     id: "5",
@@ -47,6 +47,6 @@ export const productsMock = [
     price: 7200,
     stock: 3,
     imageUrl: "https://tu-imagen.com/hamburguesa2.jpg",
-    category: "Hamburguesa",
+    category: "sanguche",
   }
 ];

@@ -1,3 +1,14 @@
-.logo{
-    color: pink;
+div {
+    display: flex;
+    justify-content: space-between;
+    height: 46px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+div ul {
+    display: flex;
+    gap: 8px;
+    list-style: none;
 }
